@@ -14,4 +14,4 @@ I turn complex datasets into clear, actionable insights that drive decision-maki
 **Database:** PostgreSQL, MySQL 
 
 ### Featured Projects:
- [Project 1 Name](https://csyoh9-glory-oluwafemi.shinyapps.io/Fuoye_Senate_Dashboard/) - Analysis of FUOYE 2024 GRADUATING STUDENT GRADE DISTRIBUTION using R and ShinyApp.  
+ [FUOYE 2024 GRADUATING STUDENT GRADE DISTRIBUTION](https://csyoh9-glory-oluwafemi.shinyapps.io/Fuoye_Senate_Dashboard/) - Analysis of FUOYE 2024 GRADUATING STUDENT GRADE DISTRIBUTION using R and ShinyApp.  
