@@ -1,12 +1,17 @@
-- 👋 Hi, I’m Oluwafemi Glory Samuel 
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on building a work community
-- 📫 How to reach me: reach me @ oluwafemiglorysamuel@gmail.com
-- 😄 Pronouns: OLUWAGBOTEMI
-- ⚡ Fun fact: A creative thinker 
+# Hi there, I'm Oluwafemi Glory Samuel
 
-<!---
-OLUWAGBOTEMI009/OLUWAGBOTEMI009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Data Analyst with a passion for finding the story behind the numbers.
+
+I turn complex datasets into clear, actionable insights that drive decision-making. I'm skilled in using SQL for data extraction, Python for analysis, and Power BI for visualization.
+
+
+- How to reach me: oluwafemiglorysamuel@gmail.com
+
+### Skills & Tools:
+**Querying:** SQL  
+**Programming:** Python (Pandas, NumPy, Seaborn) and R (tidyverse, ggplot2, dyplr) 
+**Visualization:** Tableau, Power BI, Matplotlib  
+**Database:** PostgreSQL, MySQL 
+
+### Featured Projects:
+ [Project 1 Name](https://csyoh9-glory-oluwafemi.shinyapps.io/Fuoye_Senate_Dashboard/) - Analysis of FUOYE 2024 GRADUATING STUDENT GRADE DISTRIBUTION using R and ShinyApp.  
